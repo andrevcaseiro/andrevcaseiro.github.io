@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "title": "github",
+      "icon": "../../icons/github.svg",
+      "link": "https://github.com/andrevcaseiro"
+    },
+    {
+      "title": "likedin",
+      "icon": "../../icons/linkedin.svg",
+      "link": "https://linkedin.com/in/andrevcaseiro/"
+    }
+  ]
+}

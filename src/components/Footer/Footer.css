@@ -1,0 +1,13 @@
+footer {
+  background-color: #202226;
+  text-align: center;
+  color: white;
+}
+
+footer > p {
+  margin: 0;
+}
+
+footer > p > a {
+  color: white;
+}
