@@ -1,10 +1,9 @@
 .social-media-button {
   display: inline-block;
-  color: #333; /* Adjust text color as needed */
 }
 
 .social-media-icon {
-  width: 20px; /* Adjust icon container size */
+  width: 20px;
   height: 20px;
   background-color: #fff;
   border-radius: 50%;

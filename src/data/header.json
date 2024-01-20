@@ -1,5 +1,7 @@
 {
-  "list": [
+  "name": "André Caseiro",
+  "picture": "../../pictures/profilePicture.jpg",
+  "socialMedia": [
     {
       "title": "github",
       "icon": "../../icons/github.svg",
@@ -8,7 +10,7 @@
     {
       "title": "likedin",
       "icon": "../../icons/linkedin.svg",
-      "link": "https://linkedin.com/in/andrevcaseiro/"
+      "link": "https://linkedin.com/in/andrevcaseiro"
     }
   ]
 }
