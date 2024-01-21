@@ -16,31 +16,31 @@
   gap: 2vmin;
 }
 
-.info p {
+.mainHeader .info p {
   color: #ccc;
 }
 
-.info h1 {
+.mainHeader .info h1 {
   color: #87CEEB;
 }
 
-.socialMedia {
+.mainHeader .socialMedia {
   text-align: right;
 }
 
-.picture {
+.mainHeader .picture {
   border-radius: 50% 5% 5% 50%;
   width: 30vmin;
   height: 30vmin;
   overflow: hidden;
 }
 
-.picture img {
+.mainHeader .picture img {
   width: 100%;
   height: auto;
 }
 
-.scroll-indicator {
+.mainHeader .scroll-indicator {
   position: absolute;
   bottom: 0;
   margin: 10px;
@@ -50,7 +50,7 @@
   height: 5vmin;
 }
 
-.scroll-indicator:hover {
+.mainHeader .scroll-indicator:hover {
   background-color: #cccccc33;
   transition: background-color 0.3s ease-in-out;
 }
